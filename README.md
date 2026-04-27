@@ -55,4 +55,7 @@ This project helped me understand:
 - Explore feature engineering techniques
 
 ---
-  
+## Author
+Shreya Rani
+B.Tech CSE Student
+GitHub: shreyarani01
